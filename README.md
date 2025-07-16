@@ -1,2 +1,4 @@
 # bensegal7.github.io
-Ben's Portfolio
+Ben's Portfolio:
+
+Where all of my school, personal, and professional projects go.
