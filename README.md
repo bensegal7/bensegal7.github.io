@@ -1,4 +1,4 @@
 # bensegal7.github.io
-Ben's Portfolio:
+Welcome to my website!
 
 Where all of my school, personal, and professional projects go.
