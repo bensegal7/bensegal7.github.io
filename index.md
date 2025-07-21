@@ -9,7 +9,7 @@ My name is Ben! I'm a data analyst with experience in SQL, R, and Excel. Most re
 
 # Projects
 
-Explore my [Projects](./projects/)
+Explore my [Projects](./projects/index.md)
 
 # Experiences
 
