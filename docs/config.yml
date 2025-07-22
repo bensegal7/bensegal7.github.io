@@ -1,2 +1,10 @@
 title: Ben's Data Portfolio
 theme: jekyll-theme-cayman
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      css: "/assets/css/style.css"
