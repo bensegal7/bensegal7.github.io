@@ -53,6 +53,6 @@ title: Ben's Portfolio Homepage
     <a href="./projects/"> Projects.</a>
     <a href="./experiences.md"> Experiences.</a>
     <a href="./pictures.md"> Pictures.</a>
-    <a href="./projects/BasResume.pdf"> Download my Resume.</a>
+    <a href="./assets/BasResume.pdf"> Download my Resume.</a>
   </div>
 </div>
