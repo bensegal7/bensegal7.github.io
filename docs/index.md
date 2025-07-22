@@ -56,3 +56,6 @@ title: Ben's Portfolio Homepage
     <a href="./assets/BasResume.pdf"> Download my Resume.</a>
   </div>
 </div>
+<div style="text-align: center;">
+  <img src="./assets/profile.jpg" alt="Ben Hiking" width="180" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 1rem;" />
+</div>
