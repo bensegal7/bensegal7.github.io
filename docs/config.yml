@@ -7,4 +7,4 @@ defaults:
       type: "pages"
     values:
       layout: default
-      css: "/assets/css/style.css"
+      css: "/assets/css/styles.css"
