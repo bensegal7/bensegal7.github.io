@@ -8,14 +8,14 @@ title: Ben's Portfolio Homepage
     My name is Ben! I'm a recent MBA graduate with experience in data analytics and finance.
   </p>
   <p>
-    Explore my projects, learn more about my background, or download my resume below.
+    Explore my projects, learn more about my background, or view my resume below.
   </p>
 
   <div class="nav-links">
     <a href="./projects/"> Projects.</a>
     <a href="./experiences.md"> Experiences.</a>
     <a href="./pictures.md"> Pictures.</a>
-    <a href="./assets/BasResume.pdf"> Download my Resume.</a>
+    <a href="./assets/BasResume.pdf"> My Resume.</a>
   </div>
 </div>
 <div style="text-align: center;">
